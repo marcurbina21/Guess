@@ -5,6 +5,6 @@
 in a directory until they guess correctly. User must be informed if they are too high or 
 too low. Once they guess correct they should be congratulated. 
 
-**Make Date** 
+**Make Date** 4 5 2019
 
-**Number of lines in guessinggame**
+**Number of lines in guessinggame** 24
